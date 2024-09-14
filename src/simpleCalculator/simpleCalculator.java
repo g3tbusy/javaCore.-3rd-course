@@ -146,7 +146,19 @@ public class simpleCalculator
 
     public static void logarithm() // Логарифм
     {
+        if (a <= 0 || b <= 0 || a == 1)
+        {
+            System.out.println("Основание и число должны быть положительными, а основание не может быть равно 1.");
 
+            mainMenu();
+        }
+
+        result = (float) (Math.log(b) / Math.log(a));
+        String roundedResult = String.format("%.0f", result);
+
+        System.out.print("log числа " + b +  " по основанию " + a + " = " + roundedResult);
+
+        mainMenu();
     }
 
     public static void sinus() // Синус
