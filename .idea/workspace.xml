@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f3f837-2c65-4239-ad15-71b581f6ac3a" name="Changes" comment="commit">
+    <list default="true" id="51f3f837-2c65-4239-ad15-71b581f6ac3a" name="Changes" comment="added logarithm">
+      <change afterPath="$PROJECT_DIR$/src/operationsWithArray/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleCalculator/simpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleCalculator/simpleCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +70,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726310175075</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added logarithm">
+      <option name="closed" value="true" />
+      <created>1726350948265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726350948265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="added logarithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="added logarithm" />
   </component>
 </project>
