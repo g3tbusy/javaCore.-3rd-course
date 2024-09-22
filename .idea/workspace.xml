@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f3f837-2c65-4239-ad15-71b581f6ac3a" name="Changes" comment="added ElementFinder, DisplayArrayOnScreen, DeleteElement">
+    <list default="true" id="51f3f837-2c65-4239-ad15-71b581f6ac3a" name="Changes" comment="kakashke">
+      <change afterPath="$PROJECT_DIR$/src/operationsWithArray/InsertElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operationsWithArray/DeleteElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operationsWithArray/DeleteElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operationsWithArray/ElementFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operationsWithArray/ElementFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/operationsWithArray/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operationsWithArray/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726864703139</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="kakashke">
+      <option name="closed" value="true" />
+      <created>1727009557391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727009557391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +124,7 @@
     <MESSAGE value="added logarithm" />
     <MESSAGE value="temp" />
     <MESSAGE value="added ElementFinder, DisplayArrayOnScreen, DeleteElement" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ElementFinder, DisplayArrayOnScreen, DeleteElement" />
+    <MESSAGE value="kakashke" />
+    <option name="LAST_COMMIT_MESSAGE" value="kakashke" />
   </component>
 </project>

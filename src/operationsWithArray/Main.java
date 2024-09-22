@@ -6,6 +6,7 @@ import java.util.Scanner;
 import static operationsWithArray.DeleteElement.*;
 import static operationsWithArray.ElementFinder.*;
 import static operationsWithArray.DisplayArrayOnScreen.*;
+import static operationsWithArray.InsertElement.*;
 
 public class Main
 {
@@ -25,13 +26,14 @@ public class Main
 
     public static void mainMenu()
     {
-        int choice = 0;
+        int choice;
 
         System.out.print("\n\n< < < Главное меню > > >\n" +
                 "[1] Вывести массив на экран\n" +
                 "[2] Найти позицию числа (числа от 1 до 500)\n" +
                 "[3] Найти число по позиции (100 позиций)\n" +
-                "[4] Удалить число по позиции (100 позиций)\n" +
+                "[4] Удалить число по позиции (100 позиций)\n\n" +
+                "[5] Вставить число в массив\n" +
                 "[0] Завершение работы.\n" +
                 "--------\n" +
                 "Выбор: ");
@@ -56,6 +58,10 @@ public class Main
                 DeleteElementByPos();
                 break;
 
+            case 5:
+                InsertElementByPos();
+                break;
+
             case 0:
                 System.out.println("{!} Завершение работы, до встречи.");
 
@@ -70,4 +76,3 @@ public class Main
         }
     }
 }
-
