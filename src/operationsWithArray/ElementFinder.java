@@ -29,7 +29,7 @@ public class ElementFinder
             {
                 if (findPosArray[i] != 0)
                 {
-                    System.out.print(findPosArray[i] + " ");
+                    System.out.print(findPosArray[i]+1 + " ");
                 }
             }
 
@@ -46,12 +46,13 @@ public class ElementFinder
 
     public static void FindNumberByPos()
     {
-        System.out.print("\nВведите число: ");
-        int findNum = input.nextInt();
+        System.out.print("\nВведите позицию: ");
+        int findNum = input.nextInt() - 1;
+        int tempSout = findNum + 1;
 
         if (findNum >= 0 && findNum <= 100)
         {
-            System.out.println("На позиции '" + findNum + "' находится число '" + numArray[findNum] + "'");
+            System.out.println("На позиции '" + tempSout + "' находится число '" + numArray[findNum] + "'");
 
             mainMenu();
         }
