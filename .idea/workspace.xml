@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51f3f837-2c65-4239-ad15-71b581f6ac3a" name="Changes" comment="kakashke">
-      <change afterPath="$PROJECT_DIR$/src/oldCatsMouses/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oldCatsMouses/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oldCatsMouses/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loginPass/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/MyProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phone/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,8 @@
     "Application.App.executor": "Run",
     "Application.Application.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.loginPass.executor": "Run",
+    "Application.products.Application.executor": "Run",
     "Application.simpleCalculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -61,26 +63,6 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playlist.Application" />
-      <module name="javaCore. 3rd course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Application" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -178,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728639071340</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="kakashke">
+      <option name="closed" value="true" />
+      <created>1729250556154</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729250556154</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
