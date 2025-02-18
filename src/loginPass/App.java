@@ -2,7 +2,7 @@ package loginPass;
 
 import java.util.Scanner;
 
-class LoginException extends Exception
+class LoginException extends RuntimeException
 {
     public LoginException(String message)
     {
@@ -10,7 +10,7 @@ class LoginException extends Exception
     }
 }
 
-class PasswordException extends Exception
+class PasswordException extends RuntimeException
 {
     public PasswordException(String message)
     {

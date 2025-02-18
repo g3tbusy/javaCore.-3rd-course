@@ -5,11 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51f3f837-2c65-4239-ad15-71b581f6ac3a" name="Changes" comment="kakashke">
-      <change afterPath="$PROJECT_DIR$/src/loginPass/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/MyProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animals/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animals/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animals/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animals/Pets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animals/Spider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_14_01/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_14_01/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_14_01/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_14_01/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank_14_01/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections_06_12/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/events_11_02/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/events_11_02/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/events_11_02/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module_01/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module_01/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module_01/ER-diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postgresql/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postgresql/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_10_02/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_10_02/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_18_02/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taskManager/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taskManager/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taskManager/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taskManager/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCore. 3rd course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaCore. 3rd course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loginPass/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginPass/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleCalculator/simpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleCalculator/simpleCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +75,16 @@
     &quot;accountId&quot;: &quot;3bec1644-24c3-4a20-a2f8-0fe6803f7e0a&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.2/Contents/Home/lib/src.zip!/java.base/java/util/Scanner.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="vmOptions" value="--module-path $HOME/.m2/repository/org/openjfx/javafx-controls/23.0.2/javafx-controls-23.0.2.jar --add-modules javafx.controls,javafx.fxml" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -47,22 +94,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.Application.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.loginPass.executor": "Run",
-    "Application.products.Application.executor": "Run",
-    "Application.simpleCalculator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/first/IdeaProjects/javaCore. 3rd course/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.events.executor&quot;: &quot;Run&quot;,
+    &quot;Application.loginPass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.module_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice 18.02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.products.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.simpleCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-22&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/first/IdeaProjects/javaCore. 3rd course/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28003877&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/module_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.practice 18.02">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="practice_18_02.App" />
+      <module name="javaCore. 3rd course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bank" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="bank_14_01.App" />
+      <module name="javaCore. 3rd course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="events" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="events_11_02.App" />
+      <module name="javaCore. 3rd course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice 18.02" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="practice_18_02.App" />
+      <module name="javaCore. 3rd course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.events" />
+      <item itemvalue="Application.bank" />
+      <item itemvalue="Application.practice 18.02" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -168,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729250556154</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="kakashke">
+      <option name="closed" value="true" />
+      <created>1729855368971</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729855368971</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

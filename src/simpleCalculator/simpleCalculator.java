@@ -18,7 +18,7 @@ public class simpleCalculator
         mainMenu();
     }
 
-    public static void mainMenu()
+    private static void mainMenu()
     {
         System.out.print("\n---Главное меню---\n" +
                 "[1] Сложение\n" +
