@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51f3f837-2c65-4239-ad15-71b581f6ac3a" name="Changes" comment="kakashke">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/Pets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animals/Spider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank_14_01/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank_14_01/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank_14_01/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank_14_01/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank_14_01/task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections_06_12/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/events_11_02/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/events_11_02/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/events_11_02/MainMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module_01/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module_01/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module_01/ER-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/postgresql/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/postgresql/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_10_02/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_10_02/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_18_02/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taskManager/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taskManager/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taskManager/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taskManager/TaskManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaCore. 3rd course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaCore. 3rd course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loginPass/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginPass/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleCalculator/simpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleCalculator/simpleCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,8 +116,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.events" />
       <item itemvalue="Application.bank" />
+      <item itemvalue="Application.events" />
       <item itemvalue="Application.practice 18.02" />
     </list>
   </component>
@@ -275,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729855368971</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="kakashke">
+      <option name="closed" value="true" />
+      <created>1739873639598</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739873639598</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

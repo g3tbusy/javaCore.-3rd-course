@@ -2,5 +2,5 @@ package practice_18_02;
 
 public class App
 {
-    // загружу в другой репозиторий потом
+    // загрузил сюда: https://github.com/g3tbusy/practice_18_02
 }
